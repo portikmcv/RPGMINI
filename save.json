@@ -1,0 +1,8 @@
+{
+  "class_name": "Hero",
+  "max_hp": 580,
+  "current_hp": 530,
+  "attack_power": 135,
+  "level": 25,
+  "xp": 50
+}
